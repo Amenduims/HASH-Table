@@ -1,8 +1,3 @@
-The file about HASH table is a proposed 
-exercise developed in the classroom, 
-the goal is to store the data of the desired number of students and then search for the student based on their enrollment.
+## Leia com atenção
 
-
-
-O arquivo sobre tabela HASH é um exercício proposto e desenvolvido 
-em sala de aula, o objetivo é armazenar os dados da quantidade de alunos desejados e em seguida pesquisar o aluno com base em sua matrícula.
+O arquivo HASH example contém uma implementação de tabela HASH em linguagem C, o exercício em específico permite inserir múltiplos alunos em vetor, após isso é possível remover e editar os dados dos alunos e pesquisar com bas eme sua matrícula.
